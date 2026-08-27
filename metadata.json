@@ -1,0 +1,8 @@
+{
+  "name": "University Student Assistant",
+  "description": "An intelligent university assistant with tool decision-making for academic Q&A, attendance calculations, document search, memory, and code execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
